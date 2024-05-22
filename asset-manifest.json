@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Romantic_coding/static/css/main.629f816d.css",
-    "main.js": "/Romantic_coding/static/js/main.9d0c36da.js",
+    "main.js": "/Romantic_coding/static/js/main.fe7890b1.js",
     "index.html": "/Romantic_coding/index.html",
     "main.629f816d.css.map": "/Romantic_coding/static/css/main.629f816d.css.map",
-    "main.9d0c36da.js.map": "/Romantic_coding/static/js/main.9d0c36da.js.map"
+    "main.fe7890b1.js.map": "/Romantic_coding/static/js/main.fe7890b1.js.map"
   },
   "entrypoints": [
     "static/css/main.629f816d.css",
-    "static/js/main.9d0c36da.js"
+    "static/js/main.fe7890b1.js"
   ]
 }
