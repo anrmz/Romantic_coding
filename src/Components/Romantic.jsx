@@ -8,7 +8,8 @@ export default function Romantic() {
         <div className="envelope">
           <div className="envelope__tab"></div>
           <div className="envelope__letter">
-            <p>💖i love you israe fenkoucha dyali🌍</p>
+            <p>meeting you was like listening to a song for the first time and knowing it would be my favorite.💖 i love you darling🌍
+</p>
           </div>
           <div className="envelope--base">
           </div>
