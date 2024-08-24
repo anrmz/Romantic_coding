@@ -8,7 +8,11 @@ export default function Romantic() {
         <div className="envelope">
           <div className="envelope__tab"></div>
           <div className="envelope__letter">
+<<<<<<< HEAD
             <p>meeting you was like listening to a song for the first time and knowing it would be my favorite.
+=======
+            <p>meeting you was like listening to a song for the first time and knowing it would be my favorite.
+>>>>>>> bb1753854c551fa4d6105749d4750f56d547a154
 </p>
           </div>
           <div className="envelope--base">
